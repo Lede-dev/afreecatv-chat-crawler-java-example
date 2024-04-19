@@ -1,0 +1,7 @@
+name: afreecatv-chat-crawler-java-example
+version: '${version}'
+main: net.ledestudio.accex.AccExamplePlugin
+api-version: '1.20'
+authors: [Lede]
+description: AfreecaTv Chat Crawler Example for Minecraft Plugin
+website: ledestudios.net
